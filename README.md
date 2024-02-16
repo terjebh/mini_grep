@@ -1,1 +1,1 @@
-Enekl test på Rust-basert cli-program 
+Enkel test på Rust-basert cli-program 
